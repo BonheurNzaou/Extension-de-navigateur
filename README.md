@@ -1,2 +1,1 @@
-# Extension-de-navigateur
-Création d’une extension chrome permettant de faire afficher une œuvre d’une femme photographe à chaque  fois qu’un nouvel onglet est ouvert.
+Ce projet est une extension chrome. A chaque fois que l'on ouvre un onglet, une oeuvre d'une femme photographe s'affiche, avec son titre, le nom de la photographe et sa date et sa provenance. Cela permet de découvrir de nouvelles artistes. 
